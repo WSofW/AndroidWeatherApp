@@ -29,7 +29,7 @@ import org.json.JSONObject;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String API_KEY = "c269502293174e07abe130103242207";
+    private static final String API_KEY = "a2e1bac36476498d8ff81320240711";
     private static final String BASE_URL = "https://api.weatherapi.com/v1/";
     private FusedLocationProviderClient fusedLocationClient;
 
